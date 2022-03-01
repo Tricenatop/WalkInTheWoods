@@ -1,7 +1,4 @@
-﻿//made by Sam Kreimer 2/25/2021
-//used to debug and test without access to actual course
-
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR;
